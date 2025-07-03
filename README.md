@@ -1,6 +1,6 @@
 Usage instructions for the code are included in the Jupyter notebooks. 
 Raw data is provided for usage in the code to reproduce the results shown in Carl et al. (in review). 
-The collection of standard geometries shall act as benchmarks for geomodelling, any usage for this purpose is encouraged. We would also like to encourage user to propose additional benchmark models (see Carl et al., in review please)
+The collection of standard geometries shall act as benchmarks for geomodelling, any usage for this purpose is encouraged. We would also like to encourage users to propose additional benchmark models (see Carl et al., in review please)
 
 
 ## Contributing
